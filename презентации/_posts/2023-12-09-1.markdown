@@ -1,0 +1,8 @@
+---
+layout: single
+title:  "Презентация 1"
+date:   2023-12-09 16:38:01 +0100
+---
+Допустим здесь будет какой-то контент
+
+![dogs](https://www.pedigree.com/sites/g/files/fnmzdf3076/files/2023-02/PED-dog-age-NicoTwix-600_0.png)
