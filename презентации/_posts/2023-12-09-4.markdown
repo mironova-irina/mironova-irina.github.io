@@ -6,7 +6,7 @@ title:  "В мире профессий"
 Сценарий классного часа «В мире профессий»
 
 <object data="../../pdf/world_of_jobs.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../../pdf/world_of_jobs.pdf">
-        <p>Скачать pdf<a href="../../pdf/world_of_jobs.pdf>Скачать pdf</a>.</p>
-    </embed>
+    </embed src="../../pdf/world_of_jobs.pdf">
 </object>
+
+[скачать pdf](../../pdf/world_of_jobs.pdf)

@@ -1,13 +1,12 @@
 ---
 layout: single
 title:  "Гимн курскому краю"
-title:  "Гимн курскому краю"
 ---
 
 Сценарий внеклассного интегрированного мероприятие «Гимн курскому краю»
 
 <object data="../../pdf/anthem.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../../pdf/anthem.pdf">
-        <p>Скачать pdf<a href="../../pdf/anthem.pdf>Скачать pdf</a>.</p>
-    </embed>
+    </embed src="../../pdf/anthem.pdf">
 </object>
+
+[скачать pdf](../../pdf/anthem.pdf)
