@@ -1,8 +1,11 @@
 ---
 layout: single
-title:  "Презентация 1"
-date:   2023-12-09 16:38:01 +0100
+title:  "Осенний вернисаж"
 ---
-Допустим здесь будет какой-то контент
+Сценарий внеклассного мероприятия "Осенний вернисаж"
 
-![dogs](https://www.pedigree.com/sites/g/files/fnmzdf3076/files/2023-02/PED-dog-age-NicoTwix-600_0.png)
+<object data="../../pdf/fall.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../../pdf/fall.pdf">
+        <p>Скачать pdf<a href="../../pdf/fall.pdf>Скачать pdf</a>.</p>
+    </embed>
+</object>
